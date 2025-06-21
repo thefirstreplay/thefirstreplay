@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thefirstreplay
-- 👀 I’m interested in cybersecurity and DevOps
+- 👀 I’m interested in cybersecurity and SecOps
 - 🌱 I’m currently learning the python and Powershell scripting 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach https://www.linkedin.com/in/divin-bayonne-185702151/
